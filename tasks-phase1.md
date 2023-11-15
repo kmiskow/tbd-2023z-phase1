@@ -5,7 +5,7 @@ IMPORTANT ❗ ❗ ❗ Please remember to destroy all the resources after each wo
 
 1. Authors:
 
-   ***enter your group nr***
+   ***group nr 3***
 
    ***link to forked repo***
    
