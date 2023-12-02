@@ -7,7 +7,7 @@ IMPORTANT ❗ ❗ ❗ Please remember to destroy all the resources after each wo
 
    ***group nr 3***
 
-   ***link to forked repo***
+   ***[link to forked repo](https://github.com/karpinski-j/tbd-2023z-phase1/tree/master)***
    
 2. Fork https://github.com/bdg-tbd/tbd-2023z-phase1 and follow all steps in README.md.
 
