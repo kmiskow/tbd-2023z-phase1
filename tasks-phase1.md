@@ -7,7 +7,7 @@ IMPORTANT ❗ ❗ ❗ Please remember to destroy all the resources after each wo
 
    ***group nr 3***
 
-   ***link to forked repo***
+   ***[link to forked repo](https://github.com/karpinski-j/tbd-2023z-phase1)***
    
 2. Fork https://github.com/bdg-tbd/tbd-2023z-phase1 and follow all steps in README.md.
 
@@ -43,12 +43,14 @@ IMPORTANT ❗ ❗ ❗ Please remember to destroy all the resources after each wo
 6. Analyze terraform code. Play with terraform plan, terraform graph to investigate different modules.
 
     ***describe one selected module and put the output of terraform graph for this module here***
-   
-7. Reach YARN UI
+   Moduł: Dataproc
+   ![image](https://github.com/karpinski-j/tbd-2023z-phase1/assets/83401763/e677caeb-d860-4ad4-9e9a-9828ad3ff358)
+
+8. Reach YARN UI
    
    ***place the port and the screenshot of YARN UI here***
    
-8. Draw an architecture diagram (e.g. in draw.io) that includes:
+9. Draw an architecture diagram (e.g. in draw.io) that includes:
     1. VPC topology with service assignment to subnets
     2. Description of the components of service accounts
     3. List of buckets for disposal
@@ -56,13 +58,13 @@ IMPORTANT ❗ ❗ ❗ Please remember to destroy all the resources after each wo
   
     ***place your diagram here***
 
-9. Add costs by entering the expected consumption into Infracost
+10. Add costs by entering the expected consumption into Infracost
 
    ***place the expected consumption you entered here***
 
    ***place the screenshot from infracost output here***
 
-10. Some resources are not supported by infracost yet. Estimate manually total costs of infrastructure based on pricing costs for region used in the project. Include costs of cloud composer, dataproc and AI vertex workbanch and them to infracost estimation.
+11. Some resources are not supported by infracost yet. Estimate manually total costs of infrastructure based on pricing costs for region used in the project. Include costs of cloud composer, dataproc and AI vertex workbanch and them to infracost estimation.
 
     ***place your estimation and references here***
 
